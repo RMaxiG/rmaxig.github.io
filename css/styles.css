@@ -226,7 +226,7 @@ details a:hover {
   text-align: bold;
   text-align: center;
   color: bisque;
-  animation: contador 2s ease-out;
+  animation: contador 2s ease-out 4;
 }
 
 @keyframes contador {

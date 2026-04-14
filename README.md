@@ -47,3 +47,5 @@ Interactividad: Se buscó que el usuario tenga una experiencia visual rápida.
 Navegación: El menú está pensado para ser accesible tanto en PC como en dispositivos móviles.
 
 Colores: Se respetan los colores institucionales y se usan overlays oscuros sobre el video para que el texto sea legible.
+
+SITIO WEB PUBLICO: https://rmaxig.github.io/rmaxig1.github.io/pages/Home.html

@@ -13,10 +13,8 @@ body {
 
 /* ========== TITULOS ========== */
 h1 {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #38bdf8;
   margin: 0;
-  /* Evita que el margen del h1 rompa el alineado vertical */
 }
 
 /* ========== HEADER ========== */
@@ -278,16 +276,16 @@ details a:hover {
     letter-spacing: -5px;
     filter: brightness(2);
   }
-  20%, 80% { /* Se mantiene visible entre el 20% y el 80% del tiempo */
+  20%, 80% { 
     opacity: 1;
     letter-spacing: 5px;
     filter: brightness(1);
   }
   100% {
     opacity: 0;
-    letter-spacing: 10px; /* Sigue expandiéndose mientras desaparece */
+    letter-spacing: 10px; 
     filter: brightness(0);
-    visibility: hidden; /* Evita que interfiera con clics después de irse */
+    visibility: hidden; 
   }
 }
 
